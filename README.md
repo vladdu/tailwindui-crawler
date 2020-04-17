@@ -115,6 +115,7 @@ to view the index.
 yarn add -g serve
 serve
 ```
+In order to see the components styled, you probably will want to use `TRANSFORMERS=addTailwindCss,prefixSrc,useInter`.
 
 ---
 
